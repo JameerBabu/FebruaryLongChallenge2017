@@ -1,3 +1,6 @@
+https://www.codechef.com/FEB17/problems/CHEFAPAR
+
+
 #include<iostream>
 #include<vector>
 #include<cmath>
